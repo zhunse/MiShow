@@ -27,7 +27,7 @@ PS.目前在网上找到了一个说法就是通过拨号输入`*#*#6666#*#*`可
 
 ## 文件下载
 
-> [点击此链接立即下载文件](https://cloud.zhuns.top/%E5%B0%8F%E7%B1%B3%E6%BC%94%E7%A4%BA)
+> [点击此链接立即下载文件(网页版访问)](https://cloud.zhuns.top/%E5%B0%8F%E7%B1%B3%E6%BC%94%E7%A4%BA)
 
 ![](https://ypy.zhuns.top/2024/07/28/未命名码.png)
 

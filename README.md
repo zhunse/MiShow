@@ -9,6 +9,10 @@
 
 > PS.目前在网上找到了一个说法就是通过拨号输入`*#*#6666#*#*`可以配置`小米演示APP` 但是本人并没有尝试过此方法
 
+![](https://ypy.zhuns.top/2024/11/22/xmysapp.png)
+
+<a href="https://ypy.zhuns.top/2024/11/22/app.png" target="_blank">点击查看附图</a>
+
 ## Windows
 
 风险暂时未知
